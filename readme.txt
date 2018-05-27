@@ -1,4 +1,4 @@
 first sentence
-second sentence, elisa has made a change here
+second sentence Sergei has made change here
 Third sentence
 Fourth sentence
