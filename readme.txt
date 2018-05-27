@@ -1,4 +1,4 @@
 first sentence
-second sentence
+second sentence Sergei has made change here
 Third sentence
 Fourth sentence
